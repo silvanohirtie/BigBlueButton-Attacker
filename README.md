@@ -16,8 +16,7 @@
 ## ⚙️ How does it works?
 Once you run the program, it will open a window in which you need to insert the conference's link.  
 **THE CONFERENCE MUST BE STARTED!**  
-Now the code will a chrome tab with a random bot which will join the link and type random thing in chat, after that, the program will  
-open another tab with another bot which will do the same thing, and so the other bots, once the tabs are many, they start closing the afk bots to make your pc's RAM safe :)  
+Now the code will a chrome tab with a random bot which will join the link and type random thing in chat, after that, the program will open another tab with another bot which will do the same thing, and so the other bots, once the tabs are many, they start closing the afk bots to make your pc's RAM safe :)  
 
 ## ❌ Problems
 - There are no bugs discovered 
