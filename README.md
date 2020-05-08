@@ -27,5 +27,5 @@ Now the code will a chrome tab with a random bot which will join the link and ty
 
 To get support use:  
 
-- Discord: Mental#8160
+- Discord: Silvano#8160
 
